@@ -6,6 +6,6 @@
 
 🔧 Let's collaborate on securing the digital world!  
   
-![Ojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojo5&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojo5&langs_count=4)
+![Ojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojo5&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojo5&langs_count=4)  
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=h4yy)](https://github.com/h4yy/-codewars)
