@@ -5,6 +5,9 @@
 🚀 Currently exploring penetration testing, security best practices.
 
 🔧 Let's collaborate on securing the digital world!  
+
+🕵️ [Hackthebox](https:///app.hackthebox.com/profile/1327682) profile.
+
   
 ![Ojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojo5&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojo5&langs_count=4)  
